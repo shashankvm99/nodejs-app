@@ -2,6 +2,7 @@
 
 This is a AWS Cloudformation script for spinning up a EC2 Instance with a sample node js hello world app. 
 
+This creates a EC2 Instance and during the startup it sets up the nodejs environment required for the application and also clone our application from the github and start the application. 
 
 
 ## Usage
